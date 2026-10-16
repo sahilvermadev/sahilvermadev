@@ -6,13 +6,20 @@ At Vayana, I owned the backend API layer for a development-stage financial-docum
 
 ## Selected work
 
-### [Rekky — Flutter mobile app](https://github.com/sahilvermadev/rekky-app)
+### Rekky — Flutter mobile app
 
 Speak a recommendation once, then recover it through a natural-language question or an organized Library.
 
 - **Flutter / Dart · Rust / Axum · PostgreSQL / SQLx · SQLite**
 - Sign-in, voice capture, persistent recording drafts, asynchronous processing, cited answers, owner editing and shared API fixtures.
-- Start with the [engineering tour](https://github.com/sahilvermadev/rekky-app/blob/main/docs/ENGINEERING_TOUR.md) for code paths, tests, decisions and the public snapshot's limits.
+- Product preview below; this portfolio does not offer source-code access.
+
+Synthetic Library previews from a development snapshot, using fictional sample entries:
+
+<p>
+  <img src="assets/rekky-library-light.png" alt="Rekky Library preview in light mode with synthetic sample data" width="220">
+  <img src="assets/rekky-library-dark.png" alt="Rekky Library preview in dark mode with synthetic sample data" width="220">
+</p>
 
 ### [BAXUS Deals — browser extension](https://github.com/sahilvermadev/baxus-deal)
 
