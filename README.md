@@ -22,11 +22,24 @@ The bigger idea? **Make the collective knowledge of the people around us genuine
 
 `Flutter` `Rust` `PostgreSQL` `AI`
 
-<p>
-  <img src="assets/rekky-explore.jpeg" alt="Rekky Explore with demo recommendations" width="220">
-  <img src="assets/rekky-recording.jpeg" alt="Rekky Recommend recording screen" width="220">
-  <img src="assets/rekky-library.jpeg" alt="Rekky Library with collections and saved places" width="220">
-</p>
+<table>
+  <tr>
+    <th align="center">Explore</th>
+    <th align="center">Recommend</th>
+    <th align="center">Library</th>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <img src="assets/rekky-explore.jpeg" alt="Rekky Explore with demo recommendations" width="220">
+    </td>
+    <td align="center" width="33%">
+      <img src="assets/rekky-recording.jpeg" alt="Rekky Recommend recording screen" width="220">
+    </td>
+    <td align="center" width="33%">
+      <img src="assets/rekky-library.jpeg" alt="Rekky Library with collections and saved places" width="220">
+    </td>
+  </tr>
+</table>
 
 **🎙️ [Speech-to-Speech](https://github.com/sahilvermadev/speech-to-speech) — Helping a voice assistant know when to respond**
 
