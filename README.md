@@ -1,46 +1,51 @@
-# Sahil Verma
+# Hey, I'm Sahil 👋
 
-Software engineer building mobile products, APIs and financial systems. Previously at **Vayana**, where I worked for over two years across backend services and smart contracts. I am now building **Rekky**, a Flutter app backed by Rust and PostgreSQL.
+I'm a software engineer who loves turning interesting ideas into things people can actually use.
 
-At Vayana, I owned the backend API layer for a development-stage financial-document vault using NestJS, PostgreSQL and Amazon S3. I also developed upgradeable Solidity contracts for investment and supply-chain financing workflows, including escrow, multisignature approvals and fuzz testing.
+I'm especially drawn to the intersection of **technology, human behavior, and good product design**. I like exploring why people do what they do, finding problems worth solving, and building things to see if my ideas hold up in the real world.
 
-## Selected work
+Lately, I've been spending a lot of time building with AI, experimenting with new product ideas, and learning whatever I need along the way.
 
-### Rekky — Flutter mobile app
+### 🚀 Things I've been building
 
-Speak a recommendation once, then recover it through a natural-language question or an organized Library.
+**📍 Rekky — A home for good recommendations**
 
-- **Flutter / Dart · Rust / Axum · PostgreSQL / SQLx · SQLite**
-- Sign-in, voice capture, persistent recording drafts, asynchronous processing, cited answers, owner editing and shared API fixtures.
-- Product preview below; this portfolio does not offer source-code access.
+Ever had someone recommend an amazing little restaurant, a great book, or a brilliant dentist, only to completely forget about it later?
 
-Synthetic Library previews from a development snapshot, using fictional sample entries:
+I'm building Rekky to fix that. It's a place to collect and discover recommendations from people you trust, with AI making it easy to find exactly what you're looking for.
+
+`Flutter` `Rust` `PostgreSQL` `AI`
 
 <p>
-  <img src="assets/rekky-library-light.png" alt="Rekky Library preview in light mode with synthetic sample data" width="220">
-  <img src="assets/rekky-library-dark.png" alt="Rekky Library preview in dark mode with synthetic sample data" width="220">
+  <img src="assets/rekky-library-light.png" alt="Rekky light mode" width="220">
+  <img src="assets/rekky-library-dark.png" alt="Rekky dark mode" width="220">
 </p>
 
-### [BAXUS Deals — browser extension](https://github.com/sahilvermadev/baxus-deal)
+**🥃 [BAXUS Deals](https://github.com/sahilvermadev/baxus-deal) — Finding better deals on bottles**
 
-A hackathon prototype that matches retailer bottle listings against a marketplace catalog and shows price differences.
+A hackathon project that spots bottle listings online, matches them against a marketplace, and helps you figure out whether you're getting a good deal.
 
-- **JavaScript · Chrome Manifest V3 · Python / FastAPI · Crawl4AI**
-- Browser integration, catalog caching, fuzzy matching and a server-side extraction fallback.
-- Includes a recorded demo, local setup and the prototype's known limitations.
+`JavaScript` `Chrome Extensions` `Python` `FastAPI`
 
-### [ThoughtLine — full-stack hackathon prototype](https://github.com/sahilvermadev/thoughtline)
+**🧠 [ThoughtLine](https://github.com/sahilvermadev/thoughtline) — AI agents meet decentralized ownership**
 
-Create an AI agent from source material, publish its capabilities, encrypt its private data and control usage through on-chain authorization.
+An experiment in what happens when AI agents can be created from your own knowledge, shared with others, and given programmable permissions.
 
-- **Next.js / TypeScript · Solidity / Hardhat · Vitest · 0G Storage**
-- Streaming workflows, provider/storage interfaces, separate usage and breeding permissions, and contract tests.
-- The verifier is a demo stub; the repository explains the remaining trusted-execution and key-custody limitations.
+`Next.js` `TypeScript` `Solidity` `0G Storage`
 
-## Working style
+### 🧩 Things that interest me
 
-Written product decisions, explicit API boundaries, regression tests and honest distinctions between prototypes, verified behavior and production operation. I use AI coding tools and take responsibility for understanding and reviewing the resulting changes.
+- **AI & new possibilities** — Not just making existing software faster, but building things that weren't practical before.
+- **Products & people** — Why some ideas catch on, why others don't, and what makes software genuinely enjoyable to use.
+- **Systems & engineering** — Understanding how things work under the hood and figuring out how to make them better.
+- **Building for fun** — Hackathons, side projects, strange ideas, and the occasional rabbit hole.
 
-I am open to software engineering opportunities in **Bengaluru**, including Flutter and product engineering roles, with openness to strong opportunities in Delhi.
+### 🌱 Beyond the screen
 
-[LinkedIn](https://www.linkedin.com/in/sahil-verma-2k)
+You'll probably find me on a golf course, out for a run, playing badminton, or going down a completely unrelated Wikipedia rabbit hole.
+
+I enjoy meeting people who are curious about the world, like making things, and aren't afraid to experiment.
+
+**Currently:** Building Rekky, exploring new ideas, and open to interesting software engineering opportunities.
+
+[**LinkedIn ↗**](https://www.linkedin.com/in/sahil-verma-2k)
