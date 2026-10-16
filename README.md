@@ -1,10 +1,8 @@
 # Hey, I'm Sahil 👋
 
-I'm a software engineer who loves turning interesting ideas into things people can actually use.
+I'm a software engineer building across **AI, real-time voice, mobile, and crypto**. I've built agents with wallet-based permissions and on-chain lineage, extended speech-to-speech pipelines with speaker verification and relevance gating, and worked on mobile apps with offline persistence. I like getting into the details: how a streaming conversation handles interruptions, what belongs in client state, and where authorization should be enforced.
 
-I'm especially drawn to the intersection of **technology, human behavior, and good product design**. I like exploring why people do what they do, finding problems worth solving, and building things to see if my ideas hold up in the real world.
-
-Lately, I've been spending a lot of time building with AI, experimenting with new product ideas, and learning whatever I need along the way.
+I'm especially drawn to the intersection of **technology, human behavior, and good product design**. A voice assistant knowing when to stay quiet matters as much as how quickly it can answer. Those are the kinds of problems I enjoy: understanding the behavior a product needs, then working through the engineering to make it happen. Right now, I'm bringing that together in **Rekky**, built with Flutter, Rust, and PostgreSQL.
 
 ### 🚀 Things I've been building
 
