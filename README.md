@@ -23,8 +23,9 @@ The bigger idea? **Make the collective knowledge of the people around us genuine
 `Flutter` `Rust` `PostgreSQL` `AI`
 
 <p>
-  <img src="assets/rekky-library-light.png" alt="Rekky Library in light mode" width="220">
-  <img src="assets/rekky-library-dark.png" alt="Rekky Library in dark mode" width="220">
+  <img src="assets/rekky-explore.jpeg" alt="Rekky Explore with demo recommendations" width="220">
+  <img src="assets/rekky-recording.jpeg" alt="Rekky Recommend recording screen" width="220">
+  <img src="assets/rekky-library.jpeg" alt="Rekky Library with collections and saved places" width="220">
 </p>
 
 **🎙️ [Speech-to-Speech](https://github.com/sahilvermadev/speech-to-speech) — Helping a voice assistant know when to respond**
