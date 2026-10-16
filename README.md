@@ -8,17 +8,23 @@ Lately, I've been spending a lot of time building with AI, experimenting with ne
 
 ### 🚀 Things I've been building
 
-**📍 Rekky — A home for good recommendations**
+**📍 Rekky — A social network for useful knowledge**
 
-Ever had someone recommend an amazing little restaurant, a great book, or a brilliant dentist, only to completely forget about it later?
+Some of the most useful things we know come from other people. A restaurant worth visiting, a doctor we trust, a book that changed how we think, or a little-known service that makes life easier. But so much of this knowledge gets lost in conversations, buried in chats, or never shared at all.
 
-I'm building Rekky to fix that. It's a place to collect and discover recommendations from people you trust, with AI making it easy to find exactly what you're looking for.
+I'm building **Rekky**, a social network that makes sharing and discovering useful recommendations and knowledge effortless.
+
+Instead of filling out forms or writing lengthy reviews, you simply **speak, and AI does the heavy lifting** — turning your thoughts and experiences into useful, organized recommendations that others can discover.
+
+And when you're looking for something, you can just ask. Rekky helps you find relevant recommendations and insights from people you know and trust, without digging through endless reviews or group chats.
+
+The bigger idea? **Make the collective knowledge of the people around us genuinely accessible and useful.**
 
 `Flutter` `Rust` `PostgreSQL` `AI`
 
 <p>
-  <img src="assets/rekky-library-light.png" alt="Rekky light mode" width="220">
-  <img src="assets/rekky-library-dark.png" alt="Rekky dark mode" width="220">
+  <img src="assets/rekky-library-light.png" alt="Rekky Library in light mode" width="220">
+  <img src="assets/rekky-library-dark.png" alt="Rekky Library in dark mode" width="220">
 </p>
 
 **🥃 [BAXUS Deals](https://github.com/sahilvermadev/baxus-deal) — Finding better deals on bottles**
