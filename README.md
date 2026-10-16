@@ -27,11 +27,23 @@ The bigger idea? **Make the collective knowledge of the people around us genuine
   <img src="assets/rekky-library-dark.png" alt="Rekky Library in dark mode" width="220">
 </p>
 
-**🥃 [BAXUS Deals](https://github.com/sahilvermadev/baxus-deal) — Finding better deals on bottles**
+**🎙️ [Speech-to-Speech](https://github.com/sahilvermadev/speech-to-speech) — Helping a voice assistant know when to respond**
 
-A hackathon project that spots bottle listings online, matches them against a marketplace, and helps you figure out whether you're getting a good deal.
+My fork of Hugging Face's speech pipeline adds opt-in speaker verification, relevance gating, and candidate turns that keep ignored or cancelled speech out of committed conversation history. It also includes a browser test console and audio-runtime controls. The original pipeline and model integrations come from upstream.
 
-`JavaScript` `Chrome Extensions` `Python` `FastAPI`
+`Python` `WebSockets` `Streaming Audio` `ONNX` `Pytest`
+
+**🍳 [Foodchat](https://github.com/sahilvermadev/foodchat) — A cooking assistant across web and mobile**
+
+A LibreChat-based project I adapted for recipes, shopping, imports and hands-free cooking, with an Expo/React Native client and offline state. The cooking code uses the earlier Rekky name; it is a separate project from the Flutter app above. LibreChat provides the underlying multi-user chat foundation.
+
+`React Native` `TypeScript` `Node.js` `MongoDB` `SQLite`
+
+**💬 [Revynd](https://github.com/sahilvermadev/revynd) — Exploring conversational digital twins**
+
+A historical prototype for turning chat-history patterns into a profile and an interactive conversation. The public showcase explains the product and architecture; its implementation and source conversations remain private.
+
+`Python` `FastAPI` `React` `PostgreSQL` `WebSockets`
 
 **🧠 [ThoughtLine](https://github.com/sahilvermadev/thoughtline) — AI agents meet decentralized ownership**
 
