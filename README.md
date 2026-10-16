@@ -1,19 +1,39 @@
 # Sahil Verma
 
-I'm a software engineer with over two years at Vayana across backend services and smart contracts. I also build independent AI applications.
+Software engineer building mobile products, APIs and financial systems. Previously at **Vayana**, where I worked for over two years across backend services and smart contracts. I am now building **Rekky**, a Flutter app backed by Rust and PostgreSQL.
 
-At Vayana, I owned the backend API layer for a development-stage financial-document vault using NestJS, PostgreSQL, and Amazon S3. I also developed upgradeable Solidity contracts for investment and supply-chain financing workflows, including escrow, multisignature approvals, and fuzz testing.
+At Vayana, I owned the backend API layer for a development-stage financial-document vault using NestJS, PostgreSQL and Amazon S3. I also developed upgradeable Solidity contracts for investment and supply-chain financing workflows, including escrow, multisignature approvals and fuzz testing.
 
-## Selected projects
+## Selected work
 
-- **[Rekky](https://github.com/sahilvermadev/rekky-app)** - A personal recommendation app in development, with a Flutter client and Rust/Axum/PostgreSQL backend. It explores voice capture, memory retrieval, and source-linked suggestions.
-- **[BAXUS Deals](https://github.com/sahilvermadev/baxus-deal)** - A Chrome extension and Python/FastAPI backend for matching retailer bottle listings and comparing prices.
-- **[Thoughtline](https://github.com/sahilvermadev/thoughtline)** - A hackathon prototype combining AI agents, encrypted off-chain data, and smart contracts.
+### [Rekky — Flutter mobile app](https://github.com/sahilvermadev/rekky-app)
 
-## Engineering interests
+Speak a recommendation once, then recover it through a natural-language question or an organized Library.
 
-APIs and database design, testing and debugging, product development, and reliable AI applications.
+- **Flutter / Dart · Rust / Axum · PostgreSQL / SQLx · SQLite**
+- Sign-in, voice capture, persistent recording drafts, asynchronous processing, cited answers, owner editing and shared API fixtures.
+- Start with the [engineering tour](https://github.com/sahilvermadev/rekky-app/blob/main/docs/ENGINEERING_TOUR.md) for code paths, tests, decisions and the public snapshot's limits.
 
-I'm available for software engineering opportunities in Bengaluru, with openness to strong opportunities in Delhi.
+### [BAXUS Deals — browser extension](https://github.com/sahilvermadev/baxus-deal)
+
+A hackathon prototype that matches retailer bottle listings against a marketplace catalog and shows price differences.
+
+- **JavaScript · Chrome Manifest V3 · Python / FastAPI · Crawl4AI**
+- Browser integration, catalog caching, fuzzy matching and a server-side extraction fallback.
+- Includes a recorded demo, local setup and the prototype's known limitations.
+
+### [ThoughtLine — full-stack hackathon prototype](https://github.com/sahilvermadev/thoughtline)
+
+Create an AI agent from source material, publish its capabilities, encrypt its private data and control usage through on-chain authorization.
+
+- **Next.js / TypeScript · Solidity / Hardhat · Vitest · 0G Storage**
+- Streaming workflows, provider/storage interfaces, separate usage and breeding permissions, and contract tests.
+- The verifier is a demo stub; the repository explains the remaining trusted-execution and key-custody limitations.
+
+## Working style
+
+Written product decisions, explicit API boundaries, regression tests and honest distinctions between prototypes, verified behavior and production operation. I use AI coding tools and take responsibility for understanding and reviewing the resulting changes.
+
+I am open to software engineering opportunities in **Bengaluru**, including Flutter and product engineering roles, with openness to strong opportunities in Delhi.
 
 [LinkedIn](https://www.linkedin.com/in/sahil-verma-2k)
